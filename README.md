@@ -5,7 +5,7 @@
 
 AI is changing the way traders interact with financial markets. Instead of relying exclusively on dashboards, configuration panels, charts, and manually constructed automation, traders can increasingly use AI assistants as an intelligent interface between a trading idea and the infrastructure required to analyse, test, automate, and monitor it.
 
-**(Coinrule MCP)[https://coinrule.com/mcp/]** brings this conversational approach to automated trading.
+**Coinrule MCP https://coinrule.com/mcp/** brings this conversational approach to automated trading.
 
 By connecting a compatible AI assistant such as ChatGPT, Claude, Gemini, Grok, or another MCP-compatible client to a Coinrule account, traders can use natural-language instructions to inspect portfolios, analyse running strategies, explore trading ideas, perform historical backtests, create automated strategies, monitor signals, and manage trading agents.
 
