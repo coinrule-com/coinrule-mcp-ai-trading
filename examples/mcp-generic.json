@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "coinrule": {
+      "url": "https://cloud.coinrule.com/mcp"
+    }
+  }
+}

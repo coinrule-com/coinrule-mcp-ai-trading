@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "coinrule": {
+      "type": "http",
+      "url": "https://cloud.coinrule.com/mcp"
+    }
+  }
+}
