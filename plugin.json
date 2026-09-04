@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "coinrule-mcp",
+  "version": "1.0.0",
+  "description": "Connect AI agents to Coinrule Cloud for portfolio data, automated trading strategies, backtests, and baskets.",
+  "author": {
+    "name": "Coinrule",
+    "url": "https://coinrule.com/"
+  },
+  "homepage": "https://coinrule.com/mcp/",
+  "repository": "https://github.com/coinrule-com/coinrule-mcp-ai-trading",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "trading",
+    "portfolio",
+    "backtesting",
+    "automation",
+    "finance"
+  ]
+}
