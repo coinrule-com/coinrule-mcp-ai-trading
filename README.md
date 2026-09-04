@@ -54,6 +54,16 @@ This creates a new model for AI trading: **the trader defines the objective, the
 
 You need a [Coinrule Cloud account](https://cloud.coinrule.com/) and an AI client that supports remote MCP connectors with OAuth. Connect an exchange or broker to trade live, or use paper trading without one.
 
+## Agent Plugin
+
+This repository is packaged as an [Agent Plugins 1.0.0](https://agent-plugins.org/) plugin for compatible clients and directories, including Cursor:
+
+- [`plugin.json`](plugin.json) contains portable plugin metadata.
+- [`mcp.json`](mcp.json) declares the hosted Coinrule MCP server using the Streamable HTTP transport.
+- [`server.json`](server.json) contains the official MCP Registry metadata.
+
+Agent Plugins 1.0.0 intentionally leaves OAuth to the client. When the plugin connects to `https://cloud.coinrule.com/mcp`, the client discovers Coinrule's OAuth 2.1 endpoints and asks the user to authorize Read-only or Read + Write access.
+
 ---
 
 ## From Trading Bots to AI Trading Agents
